@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @linhlbn
 - 👀 I’m interested in exploring and music
 - 🌱 I’m currently learning computer science at HCMUS - AUT
-- 💞️ I’m gonna work on project about AIOT
 - 📫 Reach me at 2059025@itec.hcmus.edu.vn
 
 <!---
