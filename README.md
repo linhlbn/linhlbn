@@ -8,8 +8,41 @@ At workplace, I am confident in my ability to be a lone warrior or the best supp
 - Love [pop/ rap] Japanese/ Chinese/ Korean/ Vietnamese music, [metal] Finnish/ Swedish/ USUK music, [EDM] Big room, Electro Dance, Hardstyle & Rawstyle music
 - Love jogging, singing, piano & kalimba
 - Love learning new things in diverse areas: Economics, Sales & Marketing, Finance, etc..  
+- and.. Meme (guest what is going on with below image 🤣) 
 
-### Fun stats
+```bash
+    /\ 
+   /  \
+  /    \
+ /______\
+ |      |
+ |      |
+ |______|
+ 
+   /\       /\ 
+  /  \     /  \
+ /    \   /    \
+/______\/______\
+|      ||      |
+|      ||      |
+|______||______|
+   /  \  /  \  
+  /    \/    \ 
+ /            \
+
+         .-""""""-.
+       .'          '.
+      /   O      O   \
+     :                :
+     |                |       
+     : ',          ,' :
+      \  '-......-'  /
+       '.          .'
+         '-......-'
+```
+
+### Fun land
+
 ![visitors](https://camo.githubusercontent.com/0921e5d0f7ce2857cbdab8c1a02c38debe8bb1d4dda2cb01f8570edf558066de/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d6c696e686c626e2e76697369746f722d62616467652e69737375652e31)
 
 ![mylanguage](https://camo.githubusercontent.com/002ad55ff008b13428dbcecb552e6506c5e9c1032ab5a8c1aa9869f6cddbb4a1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6c696e686c626e26266c61796f75743d636f6d70616374267468656d653d746f6b796f6e6967687426637573746f6d5f7469746c653d4c696e6827732b746f702b6c616e67756167657326686964655f626f726465723d66616c7365)
