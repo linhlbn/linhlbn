@@ -41,7 +41,8 @@ At workplace, I am confident in my ability to be a lone warrior or the best supp
          '-......-'
 ```
 
-### Fun land
+### Stats
+I love to see those stats, because I enjoy making process and being consistency like a adherent of Stoicism.
 
 ![visitors](https://camo.githubusercontent.com/0921e5d0f7ce2857cbdab8c1a02c38debe8bb1d4dda2cb01f8570edf558066de/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d6c696e686c626e2e76697369746f722d62616467652e69737375652e31)
 
