@@ -11,13 +11,16 @@ At workplace, I am confident in my ability to be a lone warrior or the best supp
 - and.. Meme (guest what is going on with below image 🤣) 
 
 ```bash
-    /\ 
-   /  \
-  /    \
- /______\
- |      |
- |      |
- |______|
+  /\_/\  
+ / o o \ 
+(   "   )
+
+    / \__                   
+  (    @\___
+    /         O
+  /   (_____ /
+/_____ /   U
+
  
    /\       /\ 
   /  \     /  \
@@ -40,7 +43,7 @@ At workplace, I am confident in my ability to be a lone warrior or the best supp
        '.          .'
          '-......-'
 ```
-
+(yes, when your dog and cat play together, you would feel happy 😄)
 ### Stats
 I love to see those stats, because I enjoy making process and being consistency like a adherent of Stoicism.
 
