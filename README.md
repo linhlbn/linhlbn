@@ -1,1 +1,1 @@
-Hi I'm Linh. I am working on various project with the "work as best" spirit. Therefore, I will take time to make the README.md each repo later. My core principle is that: "Respect for multidisciplinary knowledge and be steadfast to the extreme". Stay tune.
+Actions speak louder than words
